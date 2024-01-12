@@ -1,0 +1,39 @@
+_repo: A-szociologia-modszere_72549
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Balla, Antal
+    birthdate: 1886
+    deathdate: 1953
+    gutenberg_agent_id: '56713'
+    url: http://www.gutenberg.org/2009/agents/56713
+    wikipedia: https://hu.wikipedia.org/wiki/Balla_Antal_(%C3%BAjs%C3%A1g%C3%ADr%C3%B3)
+creator:
+  author:
+    agent_name: Durkheim, Émile
+    aliases:
+    - Durkheim, Emile
+    - Durkheim, David Émile
+    birthdate: 1858
+    deathdate: 1917
+    gutenberg_agent_id: '40654'
+    url: http://www.gutenberg.org/2009/agents/40654
+description: ''
+gutenberg_issued: '2023-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72549'
+language: hu
+pgterms:marc905: 20231229125551durkheim
+pgterms:marc906: '1924'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Library
+  of the Hungarian Academy of Sciences
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A szociológia módszere
+url: http://www.gutenberg.org/ebooks/72549
